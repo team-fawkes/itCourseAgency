@@ -18,16 +18,16 @@ class MenusTableSeeder extends Seeder
             'name' => 'admin',
         ]);
         Menu::firstOrCreate([
-            'header' => 'Header',
+            'name' => 'Header',
         ]);
         Menu::firstOrCreate([
-            'quick_links' => 'Quick Links',
+            'name' => 'Quick Links',
         ]);
         Menu::firstOrCreate([
-            'popular_courses' => 'Popular Courses',
+            'name' => 'Popular Courses',
         ]);
         Menu::firstOrCreate([
-            'others' => 'Others',
+            'name' => 'Others',
         ]);
     }
 }
