@@ -14,13 +14,13 @@
                         <img src="{{asset('front')}}/banner_background/shape.png" alt="victor_dot" class="dot_shape_banner">
                         <h1 data-sal="zoom-in" data-sal-delay="200" data-sal-duration="700" data-sal-easing="ease" class="sal-animate">Become an IT Pro &amp; Rule the <span>Digital World</span></h1>
                         <p>With a vision to turn manpower into {{asset('front')}}, Creative IT Institute is ready to enhance your learning experience with skilled mentors and updated curriculum. Pick your desired course from more than 30 trendy options.</p>
-                        <a target="_blank" href="our-courses.html" class="browse_btn sal-animate" data-sal="slide-left" data-sal-delay="300" data-sal-duration="800" data-sal-easing="ease">
+                        <a target="_blank" href="{{route('our_courses')}}" class="browse_btn sal-animate" data-sal="slide-left" data-sal-delay="300" data-sal-duration="800" data-sal-easing="ease">
                             <span><img src="{{asset('front')}}/book.png" alt="icon"></span>Browse Course
                         </a>
-                        <a target="_blank" href="our-courses.html" class="d-inline-block d-sm-none" data-sal="slide-left" data-sal-delay="300" data-sal-duration="800" data-sal-easing="ease">
+                        <a target="_blank" href="{{route('our_courses')}}" class="d-inline-block d-sm-none" data-sal="slide-left" data-sal-delay="300" data-sal-duration="800" data-sal-easing="ease">
                             <span><img src="{{asset('front')}}/book.png" alt="icon"></span>Browse Course<span class="ms-2 angle"><i class="fa fa-angle-down"></i></span>
                         </a>
-                        <a target="_blank" class="join_btn sal-animate" href="free-seminar.html" data-sal="slide-right" data-sal-delay="300" data-sal-duration="800" data-sal-easing="ease">
+                        <a target="_blank" class="join_btn sal-animate" href="{{route('free_seminar')}}l" data-sal="slide-right" data-sal-delay="300" data-sal-duration="800" data-sal-easing="ease">
                             <span><img src="{{asset('front')}}/book.png" alt="icon"></span>Join free seminar
                         </a>
                         <ul>
