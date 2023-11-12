@@ -15,15 +15,15 @@
     <link rel="alternate" href="index.html" hreflang="en" />
     <link rel="alternate" href="https://www.justonestopsolution.com/" hreflang="bn" />
 
-    <link rel="icon" href="{{asset('front')}}/favicon-32x32.png" type="image/png" alt="Creative IT Institute | Favicon">
-    <link rel="apple-touch-icon" sizes="48x48" href="{{asset('front')}}/icons/icon-48x48.png" alt="Creative IT Institute | Icon 1">
-    <link rel="apple-touch-icon" sizes="72x72" href="{{asset('front')}}/icons/icon-72x72.png" alt="Creative IT Institute | Icon 2">
-    <link rel="apple-touch-icon" sizes="96x96" href="{{asset('front')}}/icons/icon-96x96.png" alt="Creative IT Institute | Icon 3">
-    <link rel="apple-touch-icon" sizes="144x144" href="{{asset('front')}}/icons/icon-144x144.png" alt="Creative IT Institute | Icon 4">
-    <link rel="apple-touch-icon" sizes="192x192" href="{{asset('front')}}/icons/icon-192x192.png" alt="Creative IT Institute | Icon 5">
-    <link rel="apple-touch-icon" sizes="256x256" href="{{asset('front')}}/icons/icon-256x256.png" alt="Creative IT Institute | Icon 6">
-    <link rel="apple-touch-icon" sizes="384x384" href="{{asset('front')}}/icons/icon-384x384.png" alt="Creative IT Institute | Icon 7">
-    <link rel="apple-touch-icon" sizes="512x512" href="{{asset('front')}}/icons/icon-512x512.png" alt="Creative IT Institute | Icon 8">
+    <link rel="icon" href="{{asset('front')}}/favicon-32x32.png" type="image/png" alt="Risda IT | Favicon">
+    <link rel="apple-touch-icon" sizes="48x48" href="{{asset('front')}}/icons/icon-48x48.png" alt="Risda IT | Icon 1">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{asset('front')}}/icons/icon-72x72.png" alt="Risda IT | Icon 2">
+    <link rel="apple-touch-icon" sizes="96x96" href="{{asset('front')}}/icons/icon-96x96.png" alt="Risda IT | Icon 3">
+    <link rel="apple-touch-icon" sizes="144x144" href="{{asset('front')}}/icons/icon-144x144.png" alt="Risda IT | Icon 4">
+    <link rel="apple-touch-icon" sizes="192x192" href="{{asset('front')}}/icons/icon-192x192.png" alt="Risda IT | Icon 5">
+    <link rel="apple-touch-icon" sizes="256x256" href="{{asset('front')}}/icons/icon-256x256.png" alt="Risda IT | Icon 6">
+    <link rel="apple-touch-icon" sizes="384x384" href="{{asset('front')}}/icons/icon-384x384.png" alt="Risda IT | Icon 7">
+    <link rel="apple-touch-icon" sizes="512x512" href="{{asset('front')}}/icons/icon-512x512.png" alt="Risda IT | Icon 8">
 
     <link rel="stylesheet" href="{{asset('front')}}/css/font-awesome.min.css">
     <link rel="stylesheet" href="{{asset('front')}}/css/bootstrap.min.css">

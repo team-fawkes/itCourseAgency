@@ -1,7 +1,7 @@
 @extends('layouts.front')
 @section('meta')
-    <title>Professional IT Training Courses &amp; Certification - Creative IT Institute</title>
-    <meta name="title" content="Professional IT Training Institute in Bangladesh - Creative IT">
+    <title>Professional IT Training Courses &amp; Certification - Risda IT Institute</title>
+    <meta name="title" content="Professional IT Training Institute in Bangladesh - Risda IT">
     <meta name="description" content="Develop your professional skills through CIT We provide Graphic Design, Digital Marketing, Web Design Development, 3d Animation, etc Call 880 1624 666 000">
 @endsection
 @section('content')
@@ -12,7 +12,7 @@
                     <div class="facilities_heading">
                         <h1>Courses</h1>
                         <div class="dtails">
-                            <p><span style="font-weight: 400;">We offer all the trendy courses that are in demand in the global market. In addition, you are getting lab facilities where high-end computers with the required configuration are ready to facilitate your learning. After class, you can practice the topic in our labs to grow your skills. The courses are designed to make you confident throughout the learning journey with Creative IT.</span></p>
+                            <p><span style="font-weight: 400;">We offer all the trendy courses that are in demand in the global market. In addition, you are getting lab facilities where high-end computers with the required configuration are ready to facilitate your learning. After class, you can practice the topic in our labs to grow your skills. The courses are designed to make you confident throughout the learning journey with Risda IT.</span></p>
                         </div>
                     </div>
                 </div>
@@ -64,7 +64,7 @@
             <div class="col-12">
                 <div class="section_heading sal-animate" data-sal="slide-up" data-sal-delay="300" data-sal-duration="800" data-sal-easing="ease">
                     <h2>Comments</h2>
-                    <p>Students are members of the Creative IT family. So, any constructive feedback from students motivates us to improve and move forward.</p>
+                    <p>Students are members of the Risda IT family. So, any constructive feedback from students motivates us to improve and move forward.</p>
                 </div>
             </div>
             <div class="col-12">

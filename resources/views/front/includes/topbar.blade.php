@@ -3,9 +3,9 @@
         <div class="row align-items-center">
             <div class="col-lg-12 d-flex justify-content-between">
                 <div class="topbar_text">
-                    <a data-sal="slide-left" data-sal-delay="200" data-sal-duration="800" data-sal-easing="ease" href="tel:01777308777">
+                    <a data-sal="slide-left" data-sal-delay="200" data-sal-duration="800" data-sal-easing="ease" href="tel:+8801782655898">
                         <span><img src="{{asset('front')}}/images/home/call.png" alt="icon" /></span>
-                        01777308777</a>
+                        +8801782655898</a>
                     <a data-sal="slide-left" data-sal-delay="300" data-sal-duration="800" data-sal-easing="ease" href="mailto:help@creativeitinstitute.com" class="sal-animate"><span>
                         <img src="{{asset('front')}}/images/home/top-mail.png" alt="icon"></span>
                         help@creativeitinstitute.com</a>

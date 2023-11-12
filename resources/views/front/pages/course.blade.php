@@ -550,7 +550,7 @@
                                 <div class="col-sm-6">
                                     <div class="marketplace_item">
                                         <div class="icon">
-                                            <img src="{{asset('front')}}/images/option/option1662449119.png" alt="Creative IT Institute">
+                                            <img src="{{asset('front')}}/images/option/option1662449119.png" alt="Risda IT Institute">
                                         </div>
                                         <div class="text">
                                             <div>
@@ -562,7 +562,7 @@
                                 <div class="col-sm-6">
                                     <div class="marketplace_item">
                                         <div class="icon">
-                                            <img src="{{asset('front')}}/images/option/option1662449132.png" alt="Creative IT Institute">
+                                            <img src="{{asset('front')}}/images/option/option1662449132.png" alt="Risda IT Institute">
                                         </div>
                                         <div class="text">
                                             <div>
@@ -683,7 +683,7 @@
                                         <img src="{{asset('front')}}/images/option/option1662372155.png" alt="Lifetime Support">
                                         <h3>Lifetime Support</h3>
                                         <div>
-                                            <p><span style="color: rgb(0, 0, 0); background-color: transparent;">Creative IT and its students share a lifetime bond. We strengthen our bond with you by providing lifelong support that helps you overcome any problem in your career path even after completing your course. Our expert support team ensures 24 hours service to all of our students. The personalized feedback that you receive from us, helps you grow, every day. </span></p>
+                                            <p><span style="color: rgb(0, 0, 0); background-color: transparent;">Risda IT and its students share a lifetime bond. We strengthen our bond with you by providing lifelong support that helps you overcome any problem in your career path even after completing your course. Our expert support team ensures 24 hours service to all of our students. The personalized feedback that you receive from us, helps you grow, every day. </span></p>
                                         </div>
                                     </div>
                                 </div>
@@ -731,7 +731,7 @@
                                     <div class="section_heading sal-animate" data-sal="slide-up" data-sal-delay="300" data-sal-duration="800" data-sal-easing="ease">
                                         <h2>Comments</h2>
                                         <p>
-                                            We think of each of our students as a member of our Creative IT family. Your valuable suggestions will push us to improve our services and move forward.
+                                            We think of each of our students as a member of our Risda IT family. Your valuable suggestions will push us to improve our services and move forward.
                                         </p>
                                     </div>
                                 </div>
@@ -962,7 +962,7 @@
                             <div class="row">
                                 <div class="col-xl-6 col-lg-8 m-auto">
                                     <div class="form-data text-start ">
-                                        <form action="https://www.creativeitinstitute.com/admission/data/store" method="post">
+                                        <form action="https://www.risdait.com/admission/data/store" method="post">
                                             <input type="hidden" name="_token" value="V2p48QnQMSGM5oPuka7lq1jjA92WZYTsVvW1Ribh">                           <div class="form-group mb-4">
                                                 <label for="name">
                                                     Write Your Name

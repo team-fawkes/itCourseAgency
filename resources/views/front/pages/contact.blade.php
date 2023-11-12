@@ -1,7 +1,7 @@
 @extends('layouts.front')
 @section('meta')
-    <title>Contact Us - Creative IT Institute</title>
-    <meta name="title" content="Contact Us - Creative IT Institute">
+    <title>Contact Us - Risda IT</title>
+    <meta name="title" content="Contact Us - Risda IT">
     <meta name="description" content="We’re here to answer your questions provide all the information you need on our certification programs Call 880 1624666000 to solve your problems within your budget timeframe!">
 @endsection
 @section('content')
@@ -60,7 +60,7 @@
                                     <div class="dtails">Saturday- Friday <br>
                                         9:00 am to 8:00 pm</div>
                                     <h3 class="pt-2">E-Mail  </h3>
-                                    <p class="dtails">info@creativeitinstitute.com</p>
+                                    <p class="dtails">info@risdait.com</p>
                                 </div>
                             </div>
                         </div>
@@ -163,7 +163,7 @@
                                     <div class="dtails">Saturday- Friday <br>
                                         9:00 am to 8:00 pm</div>
                                     <h3 class="pt-2">E-Mail  </h3>
-                                    <p class="dtails">ctg@creativeitinstitute.com</p>
+                                    <p class="dtails">ctg@risdair.com</p>
                                 </div>
                             </div>
                         </div>
@@ -218,7 +218,7 @@
                                     <div class="dtails">Saturday- Friday <br>
                                         9:00 am to 8:00 pm</div>
                                     <h3 class="pt-2">E-Mail  </h3>
-                                    <p class="dtails">info@creativeitinstitute.com</p>
+                                    <p class="dtails">info@risdait.com</p>
                                 </div>
                             </div>
                         </div>
