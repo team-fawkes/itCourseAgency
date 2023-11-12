@@ -1,7 +1,7 @@
 @extends('layouts.front')
 @section('meta')
-    <title>Freelancing Career - Creative IT Institute</title>
-    <meta name="title" content="Freelancing Career - Creative IT Institute">
+    <title>Freelancing Career - Risda IT Institute</title>
+    <meta name="title" content="Freelancing Career - Risda IT Institute">
     <meta name="description" content="Be successful career as a freelancer with the guidance of our top rated freelancing coaches You can start your freelancing career with our 30 courses online offline class facilities Call now on 8801624666000">
 @endsection
 @section('content')

@@ -1,7 +1,7 @@
 @extends('layouts.front')
 @section('meta')
     <title>Professional IT Training Institute in Bangladesh - Risda IT</title>
-    <meta name="title" content="Professional IT Training Institute in Bangladesh - Creative IT">
+    <meta name="title" content="Professional IT Training Institute in Bangladesh - Risda IT">
     <meta name="description" content="Develop your professional skills through CIT We provide Graphic Design, Digital Marketing, Web Design Development, 3d Animation, etc Call 880 1624 666 000">
 @endsection
 @section('content')

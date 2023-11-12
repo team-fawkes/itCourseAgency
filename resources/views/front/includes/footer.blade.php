@@ -1,6 +1,6 @@
 <footer>
     <section id="footer"><img class="footer_left img-fluid" src="{{asset('front')}}/banner_background/shape-7.png" alt="CIT">
-        <img class="footer_right img-fluid" src="{{asset('front')}}/banner_background/shape-7.png" alt="Creative IT">
+        <img class="footer_right img-fluid" src="{{asset('front')}}/banner_background/shape-7.png" alt="Risda IT">
         <div class="container">
             <div class="row footer-top">
                 <div class="col-12">

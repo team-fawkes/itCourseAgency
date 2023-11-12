@@ -1,7 +1,7 @@
 @extends('layouts.front')
 @section('meta')
-    <title>About Us - Creative IT Institute</title>
-    <meta name="title" content="Professional IT Training Institute in Bangladesh - Creative IT">
+    <title>About Us - Risda IT Institute</title>
+    <meta name="title" content="Professional IT Training Institute in Bangladesh - Risda IT">
     <meta name="description" content="Develop your professional skills through CIT We provide Graphic Design, Digital Marketing, Web Design Development, 3d Animation, etc Call 880 1624 666 000">
 @endsection
 @section('content')
@@ -22,7 +22,7 @@
                     <div class="facilities_heading">
                         <h1>About Us</h1>
                         <div class="dtails">
-                            <p>Creative IT is an institution where empowering the community with an excellent standard of learning is what we desire. We endeavour for the continuous improvement of our leaders who will work to construct a better future. We will continue to share our knowledge for contributing to the success of individuals and to serve society in the best interest.</p>
+                            <p>Risda IT is an institution where empowering the community with an excellent standard of learning is what we desire. We endeavour for the continuous improvement of our leaders who will work to construct a better future. We will continue to share our knowledge for contributing to the success of individuals and to serve society in the best interest.</p>
                         </div>
                     </div>
                 </div>
@@ -33,7 +33,7 @@
         <div class="container">
             <div class="section_heading3">
                 <h2>Our Milestone</h2>
-                <p>Creative IT Institute is the harbor of thousands of successful freelancers in Bangladesh. We have trained and produced more than 60,000 freelancers in the past 14 years.We nurture the young talent by sharing knowledge and help students find the desired jobs to become financially solvent. </p>
+                <p>Risda IT Institute is the harbor of thousands of successful freelancers in Bangladesh. We have trained and produced more than 60,000 freelancers in the past 14 years.We nurture the young talent by sharing knowledge and help students find the desired jobs to become financially solvent. </p>
             </div>
             <div class="row">
                 <div class="col-12 milestone_slider_bg">
@@ -55,7 +55,7 @@
                                 <div class="col-md-7">
                                     <div class="card-body">
                                         <div class="card-title h5">Mohammad Yousuf Chowdhury Award 2020</div>
-                                        <p class="card-text">Creative IT Institute won the ‘Yousuf Chowdhury Award 2020’ for outstanding contribution to development. More than 250 nominees competed for this award.</p>
+                                        <p class="card-text">Risda IT Institute won the ‘Yousuf Chowdhury Award 2020’ for outstanding contribution to development. More than 250 nominees competed for this award.</p>
                                     </div>
                                 </div>
                             </div>
@@ -66,7 +66,7 @@
                                 <div class="col-md-7">
                                     <div class="card-body">
                                         <div class="card-title h5">Basis Outsourcing Award For Best Outsourcing Company</div>
-                                        <p class="card-text">Creative IT Institute received the 7th BASIS Outsourcing Award 2021, organized by Bangladesh Association Of Software And Information Services (BASIS).</p>
+                                        <p class="card-text">Risda IT Institute received the 7th BASIS Outsourcing Award 2021, organized by Bangladesh Association Of Software And Information Services (BASIS).</p>
                                     </div>
                                 </div>
                             </div>
@@ -92,7 +92,7 @@
             <div class="virtual"><span><iframe src="https://www.google.com/maps/embed?pb=!4v1666870219936!6m8!1m7!1sCAoSLEFGMVFpcE9RMUItUTFuaGxiU2lQR2dKcHhPeEVKeVE1OXN2MG1pM3hCREVo!2m2!1d23.74137159799416!2d90.38255926717535!3f177.0570796078249!4f4.773503236874745!5f0.5159516133744646" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></span>
                 <div class="virtual_text">
                     <h6>Virtual Tour</h6>
-                    <p>Creative IT Office</p>
+                    <p>Risda IT Office</p>
                 </div>
             </div>
         </div>
@@ -106,7 +106,7 @@
                         <h2>World-Renowned IT Expert Making Organization</h2>
                         <div>
                             <p>
-                                Creative IT has been working with a vision to create IT experts for the past 14 years. In a fast pacing world, where every sector relies on technology,  you need to develop IT skills to secure a better future. With the utmost dedication, we have been able to make more than 50,000 IT experts who are currently working in different sectors.
+                                Risda IT has been working with a vision to create IT experts for the past 14 years. In a fast pacing world, where every sector relies on technology,  you need to develop IT skills to secure a better future. With the utmost dedication, we have been able to make more than 50,000 IT experts who are currently working in different sectors.
                             </p>
                         </div>
                         <div class="glory_btn sal-animate" data-sal="flip-right" data-sal-delay="500" data-sal-duration="800" data-sal-easing="ease">
@@ -244,7 +244,7 @@
                                 <div class="row">
                                     <div class="col-lg-8 col-sm-12">
                                         <h3>History</h3>
-                                        <p>The journey of Creative IT Institute started in 2008 with the founder Monir Hossain. Doing comprehensive courses, many students have become self-reliant in this long journey of the institution. Many of the students became entrepreneurs and created job opportunities for others. Creative IT Institute also collaborated with the projects of the Ministry of ICT and gained the recognition as the best IT Institute in our country.
+                                        <p>The journey of Risda IT Institute started in 2008 with the founder Monir Hossain. Doing comprehensive courses, many students have become self-reliant in this long journey of the institution. Many of the students became entrepreneurs and created job opportunities for others. Risda IT Institute also collaborated with the projects of the Ministry of ICT and gained the recognition as the best IT Institute in our country.
                                         </p>
                                     </div>
                                     <div class="col-lg-4 col-sm-12 align-self-center">
@@ -258,7 +258,7 @@
                                 <div class="row">
                                     <div class="col-lg-8 col-sm-12">
                                         <h3>Culture</h3>
-                                        <p>Many people from different backgrounds work in our organization. Creative IT has a diverse culture that appreciates the labor and talent of all the members. Anyone irrespective of their gender, class, and education would find a great work environment where everyone works in harmony with love and respect.
+                                        <p>Many people from different backgrounds work in our organization. Risda IT has a diverse culture that appreciates the labor and talent of all the members. Anyone irrespective of their gender, class, and education would find a great work environment where everyone works in harmony with love and respect.
                                         </p>
                                     </div>
                                     <div class="col-lg-4 col-sm-12 align-self-center">

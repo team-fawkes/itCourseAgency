@@ -45,7 +45,7 @@
                                 <div class="text_main">
                                     <div class="text">
                                         <h4>3D Animation</h4>
-                                        <p>Creative IT Head Office,   Time: 04:00 PM</p>
+                                        <p>Risda IT Head Office,   Time: 04:00 PM</p>
                                     </div>
                                     <div class="join_btn"><a href="register-for-free-seminar/15.html">জয়েন</a></div>
                                 </div>
